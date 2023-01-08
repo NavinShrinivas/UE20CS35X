@@ -11,24 +11,16 @@
             "id": "e4dc287b89eaea13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CC/README.md.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "8d8160aeefa8f61e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBT/README.md.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -37,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blockchain/README.md.md",
+                "file": "OOAD/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/README.md.md",
+                "file": "OOAD/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blockchain/README.md.md",
+                "file": "OOAD/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blockchain/README.md.md"
+                "file": "OOAD/README.md"
               }
             }
           }
@@ -173,6 +165,7 @@
   },
   "active": "169b576f616ff143",
   "lastOpenFiles": [
+    "Blockchain/README.md.md",
     "DBT/README.md.md",
     "CC/README.md.md"
   ]
