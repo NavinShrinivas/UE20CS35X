@@ -2,10 +2,11 @@
   "vimMode": true,
   "showLineNumber": true,
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 89
-  }
+  },
+  "alwaysUpdateLinks": true
 }

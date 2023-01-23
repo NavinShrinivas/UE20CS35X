@@ -1,9 +1,12 @@
 %{
 #include<stdio.h>
+int nword=0;
+int nchar = 0;
+int nline = 0;
 %}
 %%
-([a-zA-Z0-9])* {printf("Identifier : %s \n",yytext);}
-. {printf("Possibly special chars : %s \n",yytext);}
+([a-zA-Z0-9]) {nchar++;printf("char : %s\n",yytext);}
+([a-zA-Z0-9])* {nword++;printf("Word : %s\n",yytext);}
 %% 
 int main(){
    yylex();
