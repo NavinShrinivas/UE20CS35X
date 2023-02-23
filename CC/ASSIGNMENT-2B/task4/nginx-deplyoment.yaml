@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx-deployment-pes1ug20cs237
+  labels:
+    app: nginx ## The metadata of this Deployment will hold this app name
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: nginx ## This replicaSet can handle all services with app name as nginx
+  template: ## Template of the actual pod to be deployed.
+    metadata:
+      labels:
+        app: nginx 
+    spec:
+      containers:
+      - name: nginx
+        image: nginx:1.22
+        ports:
+        - containerPort: 80

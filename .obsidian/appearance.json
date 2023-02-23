@@ -1,7 +1,8 @@
 {
   "accentColor": "#00ffd5",
-  "interfaceFontFamily": "JetBrainsMono NFM",
-  "textFontFamily": "JetBrainsMono NF",
-  "monospaceFontFamily": "JetBrainsMono NF",
-  "baseFontSize": 20
+  "interfaceFontFamily": "Iosevka",
+  "textFontFamily": "Iosevka",
+  "monospaceFontFamily": "Iosevka",
+  "baseFontSize": 19,
+  "cssTheme": "Things"
 }

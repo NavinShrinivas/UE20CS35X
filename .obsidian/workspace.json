@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CC/ASSIGNMENT-2/D_PES2UG20CS237_P K Navin Shrinivas_A2.md",
+                "file": "CD/lab3/PES2UG20CS237_D_LAB3_CD.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CD/lab3/PES2UG20CS237_D_LAB3_CD.md",
+                "file": "CC/ASSIGNMENT-2B/D_PES2UG20CS237_P K Navin Shrinivas_A2b.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.51103591918945
+    "width": 297.5086555480957
   },
   "right": {
     "id": "53b1d852610d7838",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CD/lab3/PES2UG20CS237_D_LAB3_CD.md",
+                "file": "CC/ASSIGNMENT-2B/D_PES2UG20CS237_P K Navin Shrinivas_A2b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CD/lab3/PES2UG20CS237_D_LAB3_CD.md",
+                "file": "CC/ASSIGNMENT-2B/D_PES2UG20CS237_P K Navin Shrinivas_A2b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CD/lab3/PES2UG20CS237_D_LAB3_CD.md"
+                "file": "CC/ASSIGNMENT-2B/D_PES2UG20CS237_P K Navin Shrinivas_A2b.md"
               }
             }
           }
@@ -173,15 +173,28 @@
   },
   "active": "68ea8c4908ba0048",
   "lastOpenFiles": [
-    "CC/ASSIGNMENT-2/D_PES2UG20CS237_P K Navin Shrinivas_A2.md",
-    "CD/lab2/PES2UG20CS237_D_LAB2_CD.md",
+    "CC/ASSIGNMENT-2B/D_PES2UG20CS237_P K Navin Shrinivas_A2b.pdf",
+    "Pasted image 20230223221400.png",
+    "Pasted image 20230223221332.png",
+    "Pasted image 20230223221058.png",
+    "Pasted image 20230223220856.png",
+    "Pasted image 20230223220821.png",
+    "Pasted image 20230223220750.png",
+    "CC/ASSIGNMENT-2B/Pasted image 20230223194248.png",
+    "CC/ASSIGNMENT-2B/D_PES2UG20CS237_P K Navin Shrinivas_A2b.md",
+    "CC/ASSIGNMENT-2B/Pasted image 20230223213526.png",
+    "CC/ASSIGNMENT-2B/Pasted image 20230223213421.png",
+    "CC/ASSIGNMENT-2B/Pasted image 20230223213133.png",
+    "CC/ASSIGNMENT-2B/task6/nginx-service.yaml",
+    "CC/ASSIGNMENT-2B/task6",
+    "OOAD/README.md",
+    "CC/ASSIGNMENT-2B/task4/nginx-deplyoment.yaml",
+    "CC/ASSIGNMENT-2B/task4",
     "CD/lab3/PES2UG20CS237_D_LAB3_CD.md",
-    "CC/ASSIGNMENT-2/9.png",
-    "OOAD/LAB-3/D_PES2UG20CS237_OOAD_3.md",
-    "CC/ASSIGNMENT-2/8.png",
-    "CC/ASSIGNMENT-2/13.png",
-    "CC/ASSIGNMENT-2/12.png",
-    "CC/ASSIGNMENT-2/11.png",
-    "CC/ASSIGNMENT-2/10.png"
+    "CC/EXPERIMENT-2/D_PES2UG20CS237_P K Navin Shrinivas_E2.pdf",
+    "CC/ASSIGNMENT-2/D_PES2UG20CS237_P K Navin Shrinivas_A2.md",
+    "CC/EXPERIMENT-2/D_PES2UG20CS237_E2.md",
+    "CD/lab2/PES2UG20CS237_D_LAB2_CD.md",
+    "OOAD/LAB-3/D_PES2UG20CS237_OOAD_3.md"
   ]
 }

@@ -3,7 +3,7 @@
 - Name : P K Navin Shrinivas
 - Section : D
 ## Lex file : 
-```c
+```c:parser.l
 %{
     #define YYSTYPE char*
     #include "y.tab.h"
@@ -462,6 +462,48 @@ int retrieve_type(char* name);		//retrieves type from symbol table
 int type_check(char* value);		//checks type of value string
 ```
 ## Output screenshots of evals : 
+**Code :**
+```c
+int main()
+{
+        int a=5;
+        float b=4.6;
+        double c=6.9845;
+        char d="c";
+        a=2;
+        int b;
+}
+```
 ![Test case 1](1.png)
+**Code :**
+```c
+int main()
+{
+        float x;
+        int y;
+        x = 3.4;
+        y = 45.4;
+        if(5>6)
+        {
+                x=4.5;
+        }
+        else
+        {
+                int z=5*6+5;
+        }
+}
+```
 ![Test case 1](2.png)
+**Code :**
+```c
+int main()
+{
+        int a=5;
+        b=3;
+        float c=4.5;
+        c=6.5;
+        double d=5.44;
+        double e=d+9.0-4.0/2.0;
+}
+```
 ![Test case 1](3.png)
