@@ -1,8 +1,9 @@
 {
-  "accentColor": "#00ffd5",
-  "interfaceFontFamily": "Iosevka",
-  "textFontFamily": "Iosevka",
+  "accentColor": "",
+  "interfaceFontFamily": "DejaVu Sans",
+  "textFontFamily": "DejaVu Sans",
   "monospaceFontFamily": "Iosevka",
-  "baseFontSize": 19,
-  "cssTheme": "Things"
+  "baseFontSize": 21,
+  "cssTheme": "Atom",
+  "theme": "obsidian"
 }
