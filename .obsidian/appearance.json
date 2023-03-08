@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "DejaVu Sans",
-  "textFontFamily": "DejaVu Sans",
-  "monospaceFontFamily": "Iosevka",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
   "baseFontSize": 21,
   "cssTheme": "Atom",
   "theme": "obsidian"

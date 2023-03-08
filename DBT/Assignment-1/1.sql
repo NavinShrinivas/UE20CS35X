@@ -649,11 +649,14 @@
 -- select * from teachers;
 -- select * from electives;
 
--- B)
+-- B) SCANS
 -- Query on tables with no index
--- SELECT * FROM students_no_index AS s,student_electives_no_index AS se where s.SRN like 'PES2%' AND se.SRN=s.SRN;
+-- SELECT * FROM students_no_index WHERE SRN='PES1UG20CS569';
+-- Index
+-- SELECT * FROM students WHERE SRN='PES1UG20CS569';
 
 -- C) 
-
+-- No index
+-- SELECT * FROM students_no_index AS s,student_electives_no_index AS se where s.SRN like 'PES2%' AND se.SRN=s.SRN;
 -- Query on tables with index
 SELECT * FROM students AS s,student_electives AS se where s.SRN like 'PES2%' AND se.SRN=s.SRN;

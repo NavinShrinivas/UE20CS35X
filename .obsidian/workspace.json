@@ -4,105 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "a60223fefb16cd31",
+        "id": "86a53d5d5bc1d3a2",
         "type": "tabs",
         "children": [
           {
-            "id": "5849fbbf1dd22008",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OOAD/LAB-3/D_PES2UG20CS237_OOAD_3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e61150e41760d2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CD/lab3/PES2UG20CS237_D_LAB3_CD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68ea8c4908ba0048",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CC/ASSIGNMENT-2B/D_PES2UG20CS237_P K Navin Shrinivas_A2b.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb0cf23b5eeaf7e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CC/EXPERIMENT-3/D_PES2UG20CS237_P K Navin Shrinivas_E3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b6023bc46a8371c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CD/assignment1/PES2UG20CS237_P K Navin Shrinivas_CD_A1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31270e9cb06c744e",
+            "id": "ff2be5a80932d968",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "DBT/Assignment-1/Pasted image 20230223220750.png"
+                "file": "DBT/Assignment-1/Pasted image 20230308091440.png"
               }
             }
           },
           {
-            "id": "8cd379a652f69f59",
+            "id": "ff954c05f6430620",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DBT/Assignment-1/PES2UG20CS237_DBT_A1.md",
-                "mode": "source",
-                "source": false
+                "file": "CD/assignment1/1.png"
               }
             }
           },
           {
-            "id": "309bcedca591f6c4",
+            "id": "98879d47f5d9a325",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CC/ASSIGNMENT3/D_PES2UG20CS237_P K Navin Shrinivas_A3.md",
+                "file": "CD/lab4 & 5/PES2UG20CS237_D_LAB5_CD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CC/ASSIGNMENT3/D_PES2UG20CS237_P K Navin Shrinivas_A3.md",
+                "file": "CD/lab4 & 5/PES2UG20CS237_D_LAB5_CD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CC/ASSIGNMENT3/D_PES2UG20CS237_P K Navin Shrinivas_A3.md",
+                "file": "CD/lab4 & 5/PES2UG20CS237_D_LAB5_CD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CC/ASSIGNMENT3/D_PES2UG20CS237_P K Navin Shrinivas_A3.md"
+                "file": "CD/lab4 & 5/PES2UG20CS237_D_LAB5_CD.md"
               }
             }
           }
@@ -229,39 +167,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "169b576f616ff143",
+  "active": "98879d47f5d9a325",
   "lastOpenFiles": [
+    "CD/lab4 & 5/PES2UG20CS237_D_LAB5_CD.pdf",
+    "Pasted image 20230308123709.png",
+    "CD/assignment1/1.png",
+    "CD/lab4 & 5/PES2UG20CS237_D_LAB5_CD.md",
+    "DBT/Assignment-1/Pasted image 20230308091440.png",
+    "DBT/Assignment-1/Pasted image 20230308094828.png",
+    "DBT/Assignment-1/Pasted image 20230308101146.png",
+    "CC/ASSIGNMENT3/D_PES2UG20CS237_P K Navin Shrinivas_A3.md",
+    "DBT/Assignment-1/PES2UG20CS237_DBT_A1.md",
+    "DBT/Assignment-1/Pasted image 20230223220750.png",
+    "CD/assignment1/PES2UG20CS237_P K Navin Shrinivas_CD_A1.md",
+    "CC/EXPERIMENT-3/D_PES2UG20CS237_P K Navin Shrinivas_E3.md",
+    "CC/ASSIGNMENT-2B/D_PES2UG20CS237_P K Navin Shrinivas_A2b.md",
+    "CD/lab3/PES2UG20CS237_D_LAB3_CD.md",
+    "DBT/Assignment-1/PES2UG20CS237_DBT_A1.pdf",
+    "DBT/Assignment-1/Pasted image 20230308094943.png",
+    "DBT/Assignment-1/Pasted image 20230308092106.png",
+    "OOAD/LAB-3/D_PES2UG20CS237_OOAD_3.md",
     "CC/ASSIGNMENT3/D_PES2UG20CS237_P K Navin Shrinivas_A3.pdf",
     "CC/ASSIGNMENT3/Pasted image 20230307230314.png",
     "CC/ASSIGNMENT3/Pasted image 20230307225947.png",
-    "CC/ASSIGNMENT3/Pasted image 20230307225748.png",
-    "CC/ASSIGNMENT3/Pasted image 20230307225535.png",
-    "CC/ASSIGNMENT3/Pasted image 20230307225504.png",
-    "CC/ASSIGNMENT3/Pasted image 20230307224033.png",
-    "CC/ASSIGNMENT3/Pasted image 20230307223700.png",
-    "CC/ASSIGNMENT3/Pasted image 20230307222621.png",
-    "CC/ASSIGNMENT3/Pasted image 20230307222317.png",
-    "CC/ASSIGNMENT3/Pasted image 20230307222235.png",
-    "DBT/Assignment-1/PES2UG20CS237_DBT_A1.md",
-    "CC/ASSIGNMENT3/D_PES2UG20CS237_P K Navin Shrinivas_A3.md",
-    "CD/assignment1/PES2UG20CS237_P K Navin Shrinivas_CD_A1.md",
     "CC/ASSIGNMENT3/CC Assignment 3 Students_ Manual.pdf",
     "CC/ASSIGNMENT3",
     "CC/CC Assignment 3 Students_ Manual.pdf",
     "CD/assignment1/PES2UG20CS237_P K Navin Shrinivas_CD_A1.pdf",
     "CD/assignment1/PES2UG20CS237_CD_ASSIGNMENT1.pdf",
-    "CC/EXPERIMENT-3/D_PES2UG20CS237_P K Navin Shrinivas_E3.md",
     "CC/EXPERIMENT-3/D_PES2UG20CS237_P K Navin Shrinivas_E3.pdf",
-    "CC/ASSIGNMENT-2B/D_PES2UG20CS237_P K Navin Shrinivas_A2b.md",
     "CC/ASSIGNMENT-2B/D_PES2UG20CS237_P K Navin Shrinivas_A2b.pdf",
     "CC/ASSIGNMENT-2B/task6/nginx-service.yaml",
-    "CC/ASSIGNMENT-2B/task6",
     "OOAD/README.md",
-    "CC/ASSIGNMENT-2B/task4/nginx-deplyoment.yaml",
-    "CD/lab3/PES2UG20CS237_D_LAB3_CD.md",
     "CC/ASSIGNMENT-2/D_PES2UG20CS237_P K Navin Shrinivas_A2.md",
     "CC/EXPERIMENT-2/D_PES2UG20CS237_E2.md",
-    "CD/lab2/PES2UG20CS237_D_LAB2_CD.md",
-    "OOAD/LAB-3/D_PES2UG20CS237_OOAD_3.md"
+    "CD/lab2/PES2UG20CS237_D_LAB2_CD.md"
   ]
 }
