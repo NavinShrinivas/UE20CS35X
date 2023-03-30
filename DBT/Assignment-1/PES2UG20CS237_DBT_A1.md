@@ -49,3 +49,14 @@ AS se where s.SRN like 'PES2%' AND se.SRN=s.SRN;
 ![[Pasted image 20230308094943.png]]
 - CPU Cost : 0.0002299 
 - We can observe that Cost of JOIN selects with Indexs are much faster than without index.
+- With non clusted index : 
+```sql
+create NONCLUSTERED INDEX no_pk_srn_students ON students_no_index (SRN);
+
+create NONCLUSTERED INDEX no_pk_srn_students_elective ON student_electives_no_index (SRN);
+
+SELECT * FROM students_no_index AS s,student_electives_no_index AS se where s.SRN like 'PES2%' AND se.SRN=s.SRN;
+```
+![[Pasted image 20230324030546.png]]
+- Cpu Cost : 0.0204526
+![[Pasted image 20230324030633.png]]

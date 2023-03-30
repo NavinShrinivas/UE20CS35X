@@ -9,22 +9,22 @@
 
 ## Step-2 : Create EC2 Instance
 - Starting lab : 
-![starting lab](2.png)
+![starting lab](CC/EXPERIMENT-1/2.png)
 - Summary before lauching instance : 
-![Summary image](3.png)
+![Summary image](CC/EXPERIMENT-1/3.png)
 - Success image after deployment : 
-![Post deployment image](4.png)
+![Post deployment image](CC/EXPERIMENT-1/4.png)
 - EC2 instance details in running state : 
 > Note the IP address instance name and it's size "t2.micro" 
-![EC2 instance info](5.png)
+![EC2 instance info](CC/EXPERIMENT-1/5.png)
 - Opening up the ip address (in non secure `http`)
 > Note : During creation of instance, all inbound rules were accepted. Hence without any changes to network config after deplyment, the website works!
 
-![Website being serveed in the server in port 80](6.png)
+![Website being serveed in the server in port 80](CC/EXPERIMENT-1/6.png)
 - Monitoring : 
 > AWS in free tier gives 5 minute granularity monitoring. 
 
-![Monitoring console](7.png)
+![Monitoring console](CC/EXPERIMENT-1/7.png)
 - Logs and Screenshots of the instance 
 > Note : these data can be captured from the AWS console itself.
 

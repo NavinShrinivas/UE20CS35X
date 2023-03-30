@@ -4,8 +4,8 @@
 - Section : S 
 - SRN : PES2UG20CS237
 ## Activity Diagram : 
-![activity diagram](1.png)
+![activity diagram](OOAD/LAB-3/1.png)
 ## State digrams : 
 
-![activity diagram](2.png)
+![activity diagram](OOAD/LAB-3/2.png)
 ![activity diagram](./3.png)

@@ -474,7 +474,7 @@ int main()
         int b;
 }
 ```
-![Test case 1](1.png)
+![Test case 1](CD/lab3/1.png)
 **Code :**
 ```c
 int main()
@@ -493,7 +493,7 @@ int main()
         }
 }
 ```
-![Test case 1](2.png)
+![Test case 1](CD/lab3/2.png)
 **Code :**
 ```c
 int main()
@@ -506,4 +506,4 @@ int main()
         double e=d+9.0-4.0/2.0;
 }
 ```
-![Test case 1](3.png)
+![Test case 1](CD/lab3/3.png)
