@@ -1,0 +1,28 @@
+Generated Intermediate Code 
+Generated Intermediate Code 
+=	10	 	a
+>=	a	5	t1
+if	t1		L1
+goto			L2
+Label			L1
+-	a	5	t2
+=	t2	 	a
+goto			L3
+Label			L2
++	a	5	t3
+=	t3	 	a
+Label			L3
+Generated Intermediate Code 
+Generated Intermediate Code 
+=	10	 	a
+>=	a	5	t1
+if	t1		L1
+goto			L2
+Label			L1
+-	a	5	t2
+=	t2	 	a
+goto			L3
+Label			L2
++	a	5	t3
+=	t3	 	a
+Label			L3
