@@ -37,7 +37,7 @@ try:
             for db in cursor:
                 print(db[3])
                 line = db[0]+","+db[1]+","+db[2]+","+str(db[3])+","+db[4]+","+db[5]
-                producer.send(topicName, key=db[0].encode(), value=line.encode())
+                producer.send(topicName, key=db[2].encode(), value=line.encode())
                 time.sleep(1)
 except Error as e:
     print(e)
